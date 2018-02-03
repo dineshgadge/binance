@@ -178,6 +178,6 @@ The gem is available as open source under the terms of the [MIT License](http://
 ## Donate
 
 If This library is useful to you feel free to donate.
-* BTC: 1P8uPgajnLr37mQfQ5Q8hVM9Y5ys56H7Xy
-* ETH: 0x47bb8c57ead60707e38de9d42232cb3edbccd8f2
-* NEO: AHXeTWYv8qZQhQ2WNrBza9LHyzdZtFnbaT
+* BTC: 
+* ETH: 
+* NEO: 
